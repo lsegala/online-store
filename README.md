@@ -28,6 +28,10 @@ Add the `help` flag on any command to see how you can use it. For example, `npm 
 
 The `npm run` command will list all of the scripts available to run for this project.
 
+### Entity generation
+
+    jhipster import-jdl online-store.jh
+
 ### Service workers
 
 Service workers are commented by default, to enable them please uncomment the following code.

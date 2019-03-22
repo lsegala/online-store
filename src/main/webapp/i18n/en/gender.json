@@ -1,0 +1,9 @@
+{
+    "storeApp": {
+        "Gender": {
+            "null": "",
+            "M": "M",
+            "F": "F"
+        }
+    }
+}
